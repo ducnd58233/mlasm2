@@ -5,6 +5,8 @@ conda create -n mlasm2 python=3.9
 conda activate mlasm2
 conda install --file requirements.txt
 ```
+- task1.ipynb: the file of task 1  
+- task2.ipynb: the file of task 2
 
 # **Folder Structure**
 ```
